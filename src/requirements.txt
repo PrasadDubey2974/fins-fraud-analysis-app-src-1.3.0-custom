@@ -4,3 +4,6 @@ flask
 flask_restful
 xgboost
 uwsgi
+Flask
+Flask-RESTful
+scikit-learn
