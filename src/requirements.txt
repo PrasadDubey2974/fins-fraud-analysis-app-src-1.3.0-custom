@@ -1,9 +1,10 @@
-
+wheel
 pandas
 flask
 flask_restful
 xgboost
 Flask
+uwsgi
 Flask-RESTful
 scikit-learn
 streamlit
